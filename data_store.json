@@ -1,0 +1,105 @@
+{
+  "settings": {
+    "daily_mins": 100.0
+  },
+  "lectures": [
+    {
+      "title": "Motion in 1-D",
+      "segments": [
+        {
+          "topic": "Motion in 1-D",
+          "mins": 10.0,
+          "difficulty": 1,
+          "order": 1
+        }
+      ]
+    },
+    {
+      "title": "Motion in 2-D",
+      "segments": [
+        {
+          "topic": "Motion in 2-D",
+          "mins": 20.0,
+          "difficulty": 2,
+          "order": 1
+        },
+        {
+          "topic": "Relative Motion",
+          "mins": 20.0,
+          "difficulty": 2,
+          "order": 2
+        }
+      ]
+    },
+    {
+      "title": "Sequence and Series",
+      "segments": [
+        {
+          "topic": "AP",
+          "mins": 30.0,
+          "difficulty": 2,
+          "order": 1
+        },
+        {
+          "topic": "GP",
+          "mins": 30.0,
+          "difficulty": 3,
+          "order": 1
+        },
+        {
+          "topic": "HP",
+          "mins": 20.0,
+          "difficulty": 1,
+          "order": 2
+        },
+        {
+          "topic": "AGP",
+          "mins": 20.0,
+          "difficulty": 2,
+          "order": 2
+        }
+      ]
+    },
+    {
+      "title": "Conics",
+      "segments": [
+        {
+          "topic": "parabola",
+          "mins": 45.0,
+          "difficulty": 3,
+          "order": 1
+        },
+        {
+          "topic": "ellipse",
+          "mins": 45.0,
+          "difficulty": 3,
+          "order": 2
+        },
+        {
+          "topic": "hyperbola",
+          "mins": 45.0,
+          "difficulty": 3,
+          "order": 3
+        }
+      ]
+    }
+  ],
+  "completed_courses": [],
+  "streak": {
+    "current": 0,
+    "last_date": null,
+    "minutes_today": 0.0,
+    "last_fatigue": 0.0
+  },
+  "active_session": null,
+  "recommended_sessions": [
+    {
+      "lecture_title": "Sequence and Series",
+      "topic": "AGP",
+      "mins": 20.0,
+      "difficulty": 2,
+      "order": 2
+    }
+  ],
+  "recommended_total": 20.0
+}
